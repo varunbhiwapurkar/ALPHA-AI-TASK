@@ -1,1 +1,17 @@
+Task 5 : 
+Designed an API that maps the mouse click with the screen position (X-Y coordinates) and 
+records all the instances when the mouse button is pressed and extracts all the information 
+as suggested and pushes it to the xampp database
 
+(You will need Xampp installed on your device)
+once you have xampp installed on your device copy the php files(database.php, save.php, index.php) in a folder and place them in  
+<<  C:\xampp\htdocs  >> this location of  C drive.
+
+- Start xampp control panel, then click start on Apache and SQL  server.
+- browse 'localhost' 
+- from there click on  to the folder in which you copied the php files.
+( now click anywhere on the screen to get coordinates)
+
+- Now browse  http://localhost/phpmyadmin/ 
+- It will open the database  where it stores the X and y coordinates in the table.
+ 
