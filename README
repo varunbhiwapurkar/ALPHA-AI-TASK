@@ -1,3 +1,14 @@
+Task 1:
+This is to implement a cipher & to Build a tool that takes a string of text as input and encrypts it using a cipher.
+The program is written in Java.(Use a Java Compiler to run the code)
+CaesarCipherEncryption.java is the main file you have to run.
+  -  Enter plain text you want to encrypt
+  -  Enter the number by which you want to shift
+  -  That's it you will have your encryted text. 
+   :)
+   
+   
+   
 Task 5 : 
 Designed an API that maps the mouse click with the screen position (X-Y coordinates) and 
 records all the instances when the mouse button is pressed and extracts all the information 
